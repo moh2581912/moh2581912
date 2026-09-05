@@ -1,45 +1,81 @@
+# 👋 Hi, I'm Mohammed Elattar
 
-# Hi, I'm Mohammed 👋
+### ⚡ Electrical Engineering Student | Renewable Energy | Industrial Automation | Optimization
 
-🎓 Electrical Engineering Student  
-⚡ Interested in Power Electronics, Control Systems and Industrial Automation
+I'm an Electrical Engineering student at **ENSET Mohammedia**, passionate about
+industrial automation, electrical systems, renewable energy, and intelligent
+optimization solutions.
 
-## 🔧 Technical Skills
+I enjoy solving real-world industrial problems using engineering, simulation,
+data analysis, and programming.
 
-- MATLAB / Simulink
-- Proteus
-- Power Electronics
-- Electrical Machines
-- Control Systems
-- VHDL
-- Industrial Automation
+---
+
+## 🚀 About Me
+
+- 🎓 Electrical Engineering Student at **ENSET Mohammedia**
+- ⚡ Interested in **Electrical Engineering & Renewable Energy**
+- 🏭 Interested in **Industrial Automation & Industry 4.0**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 📊 Working with **MATLAB / Simulink / Excel**
+- 🔧 Interested in **Maintenance, Optimization & Industrial Systems**
+- 🌱 Always learning and building new projects
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### Engineering
+![MATLAB](https://img.shields.io/badge/MATLAB%20%2F%20Simulink-orange?style=for-the-badge)
+![PLC](https://img.shields.io/badge/PLC-Automation-blue?style=for-the-badge)
+![Electrical](https://img.shields.io/badge/Electrical%20Engineering-red?style=for-the-badge)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
 
 ## 🚀 Featured Projects
 
-### ⚡ V2G/G2V Full-Bridge PSFB
-Design and simulation of a 200 W Phase-Shifted Full-Bridge (PSFB) converter for V2G/G2V applications.
+### 🏭 Sewing Line Scheduling Optimizer
+Optimization tool for improving production scheduling and machine capacity
+in an industrial sewing workshop.
 
-**Tools:** MATLAB/Simulink, Proteus
+**Technologies:** MATLAB, Simulink, Excel, Optimization
 
-### 🏭 Sewing Workshop Optimization
-Optimization and simulation of an industrial sewing workshop, focusing on production capacity, scheduling, maintenance and availability.
+---
 
-**Tools:** MATLAB/Simulink
+### ⚙️ Industrial Servo Motor Control
+Digital PI control in state-space for an industrial positioning axis using
+an AC servo motor.
 
-### 💻 VHDL Digital Systems
-Design and simulation of digital systems using VHDL.
+**Technologies:** MATLAB / Simulink, Control Systems
 
-**Tools:** VHDL, EDA Playground, GHDL
+---
 
-## 📊 Interests
+### ⚡ Electrical Energy Analysis
+Analysis of electrical networks, power quality, harmonics and energy
+consumption in industrial environments.
 
-- Power Electronics
-- Motor Control
-- Renewable Energy
-- Electrical Machines
-- Industrial Automation
-- Simulation & Modeling
+**Technologies:** MATLAB, Excel, Electrical Measurements
 
-## 📫 Contact
+---
 
-Feel free to explore my repositories and projects.
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+</p>
+
+---
+
+
+
+---
+
+⭐ Feel free to explore my repositories and projects!
