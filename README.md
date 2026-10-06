@@ -2,7 +2,7 @@
 
 ### ⚡ Electrical Engineering Student | Renewable Energy | Industrial Automation | Production Optimization
 
-Second-year **Génie Électrique et Énergies Renouvelables (GEER)** engineering student at **ENSET Mohammedia** (Université Hassan II), passionate about industrial automation, electrical systems, renewable energy, production optimization, and intelligent industrial solutions.
+Second-year **Génie Électrique (GE)**, passionate about industrial automation, electrical systems, renewable energy, production optimization, and intelligent industrial solutions.
 
 I enjoy solving real-world industrial problems using engineering, simulation, data analysis, optimization, and programming.
 
@@ -10,7 +10,7 @@ I enjoy solving real-world industrial problems using engineering, simulation, da
 
 ## 🚀 About Me
 
-- 🎓 GEER Engineering Student at **ENSET Mohammedia**
+- 🎓 GE Engineering Student 
 - 🏭 Completed my PFA (Projet de Fin d'Année) at **Gentherm Morocco** — Collection/Sewing production line
 - ⚡ Interested in **Electrical Engineering & Renewable Energy**
 - 🏭 Interested in **Industrial Automation & Industry 4.0**
